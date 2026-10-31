@@ -8,16 +8,16 @@
   "lyrics_url": "https://allyskyproject.com/artifacts/wonderwall-v2-1b/",
   "release": {
     "tag": "complexity-v1",
-    "published_at": null,
+    "published_at": "2026-10-31T06:27:03Z",
     "assets": {
       "before_dsp": {
         "filename": "complexity-before-dsp-flac.zip",
-        "url": null,
+        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/complexity-v1/complexity-before-dsp-flac.zip",
         "total_bytes": 230528189
       },
       "after_dsp": {
         "filename": "complexity-after-dsp-flac.zip",
-        "url": null,
+        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/complexity-v1/complexity-after-dsp-flac.zip",
         "total_bytes": 125415297
       }
     }
