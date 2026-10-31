@@ -1,0 +1,8 @@
+# Release binaries (GitHub Releases only)
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.zip
+
+.DS_Store

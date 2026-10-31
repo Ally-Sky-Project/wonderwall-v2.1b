@@ -1,0 +1,60 @@
+1{
+  "id": "complexity-v1",
+  "variant": "complexity",
+  "title": "Wonderwall v2.1b — Complexity version",
+  "release_format": "flac",
+  "sample_rate_hz": 48000,
+  "license": "CC-BY-NC-4.0",
+  "lyrics_url": "https://allyskyproject.com/artifacts/wonderwall-v2-1b/",
+  "release": {
+    "tag": "complexity-v1",
+    "published_at": null,
+    "assets": {
+      "before_dsp": {
+        "filename": "complexity-before-dsp-flac.zip",
+        "url": null,
+        "total_bytes": 230528189
+      },
+      "after_dsp": {
+        "filename": "complexity-after-dsp-flac.zip",
+        "url": null,
+        "total_bytes": 125415297
+      }
+    }
+  },
+  "before_dsp": {
+    "description": "Multitrack inputs (Suno stem names). Lossless FLAC.",
+    "files": [
+      { "name": "0 Lead Vocals.flac", "bytes": 24194149 },
+      { "name": "1 Backing Vocals.flac", "bytes": 18557058 },
+      { "name": "2 Drums.flac", "bytes": 21716164 },
+      { "name": "3 Bass.flac", "bytes": 21090817 },
+      { "name": "4 Guitar.flac", "bytes": 16963170 },
+      { "name": "5 Keyboard.flac", "bytes": 27885604 },
+      { "name": "6 Percussion.flac", "bytes": 24397613 },
+      { "name": "7 Strings.flac", "bytes": 13585670 },
+      { "name": "8 Synth.flac", "bytes": 21839364 },
+      { "name": "9 Other.flac", "bytes": 19696093 },
+      { "name": "10 Brass.flac", "bytes": 11042432 },
+      { "name": "11 Woodwinds.flac", "bytes": 9560055 }
+    ]
+  },
+  "after_dsp": {
+    "description": "Processed layers and masters from the Complexity edition pipeline. Lossless FLAC.",
+    "layers": [
+      { "name": "burst.flac", "bytes": 1099821 },
+      { "name": "glitch_rewind.flac", "bytes": 1638016 },
+      { "name": "inhale.flac", "bytes": 221189 },
+      { "name": "insert_widened.flac", "bytes": 2254915 },
+      { "name": "janus_hold.flac", "bytes": 205527 },
+      { "name": "longer_throw.flac", "bytes": 360540 },
+      { "name": "vocal_lift.flac", "bytes": 2414297 }
+    ],
+    "masters": [
+      { "name": "Wonderwall v2.1b — Complexity v2.flac", "bytes": 52439394 },
+      { "name": "Wonderwall v2.1b — Janus stem master.flac", "bytes": 33203452 },
+      { "name": "Wonderwall v2.1b (Complexity Version).flac", "bytes": 31578146 }
+    ]
+  },
+  "provenance": "Sound recordings include material created with Suno under a Premier subscription. Suno assigns rights in that Output to the creator under the Suno Terms of Service. Ally Sky Project grants download terms in LICENSE."
+}
