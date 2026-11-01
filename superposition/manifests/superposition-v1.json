@@ -10,20 +10,20 @@
     "tag": "superposition-v1",
     "published_at": "2026-11-01T18:39:47Z",
     "assets": {
-      "before_dsp": {
-        "filename": "superposition-before-dsp-flac.zip",
-        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-before-dsp-flac.zip",
+      "stems": {
+        "filename": "superposition-stems-flac.zip",
+        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-stems-flac.zip",
         "total_bytes": 184404405
       },
-      "after_dsp": {
-        "filename": "superposition-after-dsp-flac.zip",
-        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-after-dsp-flac.zip",
+      "master": {
+        "filename": "superposition-master-flac.zip",
+        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-master-flac.zip",
         "total_bytes": 31062158
       }
     }
   },
-  "before_dsp": {
-    "description": "Multitrack inputs (Suno stem names). Lossless FLAC.",
+  "stems": {
+    "description": "Multitrack Suno exports (standard stem names). Lossless FLAC.",
     "files": [
       {
         "name": "0 Lead Vocals.flac",
@@ -75,10 +75,9 @@
       }
     ]
   },
-  "after_dsp": {
-    "description": "Public master for the Superposition (State) edit. Lossless FLAC.",
-    "layers": [],
-    "masters": [
+  "master": {
+    "description": "Stereo master for the Superposition (State) edit. Lossless FLAC.",
+    "files": [
       {
         "name": "Wonderwall v2.1b (Superposition) (State) (Edit).flac",
         "bytes": 31062158
