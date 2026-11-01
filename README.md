@@ -8,9 +8,12 @@ Lyrics and cover art for each version live on the [Ally Sky artifact page](https
 
 ## Superposition version
 
-- Lyrics: [Superposition](https://allyskyproject.com/artifacts/wonderwall-v2-1b/?version=superposition)
-- Manifest: [`superposition/manifests/superposition-v1.json`](superposition/manifests/superposition-v1.json)
-- **Stem release [`superposition-v1`](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/tag/superposition-v1):** not published yet — manifest will list download URLs when tagged.
+**Release [`superposition-v1`](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/tag/superposition-v1)**:
+
+- [superposition-before-dsp-flac.zip](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-before-dsp-flac.zip)
+- [superposition-after-dsp-flac.zip](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-after-dsp-flac.zip)
+
+Lyrics: [Superposition](https://allyskyproject.com/artifacts/wonderwall-v2-1b/?version=superposition) · Manifest: [`superposition/manifests/superposition-v1.json`](superposition/manifests/superposition-v1.json)
 
 ## Complexity version
 

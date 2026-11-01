@@ -8,8 +8,82 @@
   "lyrics_url": "https://allyskyproject.com/artifacts/wonderwall-v2-1b/?version=superposition",
   "release": {
     "tag": "superposition-v1",
-    "published_at": "2026-11-01T00:00:00.000Z",
-    "assets": {}
+    "published_at": "2026-11-01T18:39:47Z",
+    "assets": {
+      "before_dsp": {
+        "filename": "superposition-before-dsp-flac.zip",
+        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-before-dsp-flac.zip",
+        "total_bytes": 184404405
+      },
+      "after_dsp": {
+        "filename": "superposition-after-dsp-flac.zip",
+        "url": "https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-after-dsp-flac.zip",
+        "total_bytes": 31062158
+      }
+    }
+  },
+  "before_dsp": {
+    "description": "Multitrack inputs (Suno stem names). Lossless FLAC.",
+    "files": [
+      {
+        "name": "0 Lead Vocals.flac",
+        "bytes": 22791232
+      },
+      {
+        "name": "1 Backing Vocals.flac",
+        "bytes": 14785047
+      },
+      {
+        "name": "2 Drums.flac",
+        "bytes": 24656177
+      },
+      {
+        "name": "3 Bass.flac",
+        "bytes": 12135005
+      },
+      {
+        "name": "4 Guitar.flac",
+        "bytes": 21109510
+      },
+      {
+        "name": "5 Keyboard.flac",
+        "bytes": 18010111
+      },
+      {
+        "name": "6 Percussion.flac",
+        "bytes": 16138784
+      },
+      {
+        "name": "7 Strings.flac",
+        "bytes": 7875836
+      },
+      {
+        "name": "8 Synth.flac",
+        "bytes": 22028222
+      },
+      {
+        "name": "9 Other.flac",
+        "bytes": 20514481
+      },
+      {
+        "name": "10 Brass.flac",
+        "bytes": 2651805
+      },
+      {
+        "name": "11 Woodwinds.flac",
+        "bytes": 1708195
+      }
+    ]
+  },
+  "after_dsp": {
+    "description": "Public master for the Superposition (State) edit. Lossless FLAC.",
+    "layers": [],
+    "masters": [
+      {
+        "name": "Wonderwall v2.1b (Superposition) (State) (Edit).flac",
+        "bytes": 31062158
+      }
+    ]
   },
   "provenance": "Sound recordings include material created with Suno under a Premier subscription. Suno assigns rights in that Output to the creator under the Suno Terms of Service. Ally Sky Project grants download terms in LICENSE."
 }
