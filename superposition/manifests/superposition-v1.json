@@ -1,0 +1,15 @@
+{
+  "id": "superposition-v1",
+  "variant": "superposition",
+  "title": "Wonderwall v2.1b — Superposition version",
+  "release_format": "flac",
+  "sample_rate_hz": 48000,
+  "license": "CC-BY-NC-4.0",
+  "lyrics_url": "https://allyskyproject.com/artifacts/wonderwall-v2-1b/?version=superposition",
+  "release": {
+    "tag": "superposition-v1",
+    "published_at": "2026-11-01T00:00:00.000Z",
+    "assets": {}
+  },
+  "provenance": "Sound recordings include material created with Suno under a Premier subscription. Suno assigns rights in that Output to the creator under the Suno Terms of Service. Ally Sky Project grants download terms in LICENSE."
+}
