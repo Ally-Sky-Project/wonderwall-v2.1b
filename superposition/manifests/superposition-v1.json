@@ -1,7 +1,7 @@
 {
   "id": "superposition-v1",
   "variant": "superposition",
-  "title": "Wonderwall v2.1b — Superposition version",
+  "title": "Wonderwall v2.1b (Superposition)",
   "release_format": "flac",
   "sample_rate_hz": 48000,
   "license": "CC-BY-NC-4.0",
@@ -76,10 +76,10 @@
     ]
   },
   "master": {
-    "description": "Wonderwall v2.1b (Superposition) (State) (Edit). Lossless FLAC.",
+    "description": "Wonderwall v2.1b (Superposition). Lossless FLAC.",
     "files": [
       {
-        "name": "Wonderwall v2.1b (Superposition) (State) (Edit).flac",
+        "name": "Wonderwall v2.1b (Superposition).flac",
         "bytes": 31062158
       }
     ]
