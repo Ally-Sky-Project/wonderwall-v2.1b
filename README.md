@@ -10,8 +10,8 @@ Lyrics and cover art for each version live on the [Ally Sky artifact page](https
 
 **Release [`superposition-v1`](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/tag/superposition-v1)**:
 
-- [superposition-stems-flac.zip](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-stems-flac.zip) — multitrack Suno stems
-- [superposition-master-flac.zip](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-master-flac.zip) — State edit master
+- [superposition-stems-flac.zip](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-stems-flac.zip)
+- [superposition-master-flac.zip](https://github.com/Ally-Sky-Project/wonderwall-v2.1b/releases/download/superposition-v1/superposition-master-flac.zip)
 
 Lyrics: [Superposition](https://allyskyproject.com/artifacts/wonderwall-v2-1b/?version=superposition) · Manifest: [`superposition/manifests/superposition-v1.json`](superposition/manifests/superposition-v1.json)
 

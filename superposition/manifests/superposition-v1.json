@@ -23,7 +23,7 @@
     }
   },
   "stems": {
-    "description": "Multitrack Suno exports (standard stem names). Lossless FLAC.",
+    "description": "Multitrack inputs (Suno stem names). Lossless FLAC.",
     "files": [
       {
         "name": "0 Lead Vocals.flac",
@@ -76,7 +76,7 @@
     ]
   },
   "master": {
-    "description": "Stereo master for the Superposition (State) edit. Lossless FLAC.",
+    "description": "Wonderwall v2.1b (Superposition) (State) (Edit). Lossless FLAC.",
     "files": [
       {
         "name": "Wonderwall v2.1b (Superposition) (State) (Edit).flac",
